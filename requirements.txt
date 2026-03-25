@@ -1,8 +1,5 @@
-tensorflow>=2.11.0
+flask
+numpy
+tensorflow
 opencv-python
 Pillow
-numpy
-pandas
-scikit-learn
-matplotlib
-flask
