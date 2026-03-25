@@ -1,0 +1,5 @@
+How to Explain to Staff
+
+Say this:
+
+“Confidence represents the probability score given by the softmax layer of the CNN model. It indicates how strongly the model believes in its prediction.”
